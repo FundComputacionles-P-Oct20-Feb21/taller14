@@ -22,3 +22,6 @@
 
 * Grupo 04
 	- Tipos de aplicaciones móviles
+	
+* Grupo 05
+	- Ejemplos de desarrollo de software libbre y propietario
